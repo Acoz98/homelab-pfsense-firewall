@@ -14,13 +14,7 @@ The installation process includes:
 2. Preparing a bootable USB flash drive
 3. Booting the Lenovo ThinkCentre from USB
 4. Connecting the installer to the network
-5. Installing pfSense onto the Kingston SSD
-6. Assigning WAN and LAN interfaces
-7. Booting pfSense for the first time
-8. Connecting a management computer
-9. Accessing the pfSense webConfigurator
-10. Completing the initial Setup Wizard
-11. Validating Internet and DNS connectivity
+5. Installing pfSense onto the Kingston SSD 
 
 > **Public Portfolio Note:** IP addresses, hostnames, usernames, WAN addresses, and other infrastructure identifiers shown in this repository are sanitized examples and do not represent the live homelab configuration.
 
